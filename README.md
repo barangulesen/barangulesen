@@ -12,12 +12,8 @@ barangulesen/barangulesen is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-<p align="center">
-  <img src="assets/badge1.gif" />
-</p>
-<p align="left">
-  <img src="assets/badge2.gif" />
-</p>
+<img src="assets/badge1.gif" />
+<img src="assets/badge2.gif" />
 <p align="right">
   <img src="assets/cat-typing.gif" />
 </p>
