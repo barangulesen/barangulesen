@@ -7,6 +7,11 @@
 <p align="right">
   <img src="assets/cat-typing.gif" />
 </p>
+ <img src="assets/counter.gif" />
+ <img src="assets/unicorn.gif" />
+ <img src="assets/welcome-header.gif" />
+ 
+
 
 
 - 👋 Hi, I’m @barangulesen
